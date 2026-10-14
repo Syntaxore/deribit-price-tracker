@@ -15,6 +15,7 @@ dependencies = [
     "pydantic",
     "python-dotenv",
     "httpx",
+    "celery-types>=0.26.0",
 ]
 
 [project.optional-dependencies]
